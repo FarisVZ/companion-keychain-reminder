@@ -31,6 +31,8 @@ Adding 2 button for RST and Boot
 
 Trying to make version 2 by rerouting everything and uses bigger component
 
+![V2](/Media/V2design.png)
+
 ### July 4th 2025
 
 try to test it with real component and breadboard and find several issue:
@@ -54,3 +56,11 @@ trying the prototyping again to find another issue, by tweak something:
 - add time in menu
 
 ![Protype_2](/Media/Prototype_2.jpg)
+
+### July 21th 2025
+
+- adding pcf8574 ic into pcb to solve lack of gpio problem
+- trying to just use ds3231 ic insted of module to make this project smaller
+- adding 5 button to navigate
+
+![V2.1](/Media/V2.1design.png)
