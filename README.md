@@ -2,4 +2,11 @@
 
 a keychain to help poeple with disability that requires reminders every few hours, it also a little companion with oled display face that can be put on belt loop
 
-### Work In Progress...
+# Work In Progress...
+
+## Timeline
+
+ ### June 26th 2025
+  **The first version on the project**
+  - choose component
+
