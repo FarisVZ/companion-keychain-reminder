@@ -16,9 +16,10 @@ the first design was just a simple design to make a minimum req for esp12F to wo
 ### June 26th 2025
 
 Changing some layout and adding more component to the board, that include:
+
 - vibrator motor module
 - oled display
-    
+
 ![V1.1](/Media/V1.1design.jpg)
 
 ### June 29th 2025
@@ -36,6 +37,7 @@ Trying to make version 2 by rerouting everything and uses bigger component
 ### July 4th 2025
 
 try to test it with real component and breadboard and find several issue:
+
 - the module doesnt get enough current from the esp so it need a transistor
 - only had few gpio to work with (3 for button, 1 for vibrator, and 2 for 12c address)
 
@@ -44,6 +46,7 @@ try to test it with real component and breadboard and find several issue:
 ### July 5th 2025
 
 trying the prototyping again to find another issue, by tweak something:
+
 - adding a menu to oled display
 - temporarily change to buzzer for the vibrator
 - change into just two button for navigating up and down and implementing press both button to select menu
