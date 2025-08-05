@@ -64,3 +64,7 @@ trying the prototyping again to find another issue, by tweak something:
 - adding 5 button to navigate
 
 ![V2.1](/Media/V2.1design.png)
+
+### August 5th 2025
+
+Making a github repo documentation about this project
